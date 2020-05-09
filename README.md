@@ -1,4 +1,4 @@
-# Our implementation of Unix command: ls
+# uls
 
 ## Synopsys
 
