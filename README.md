@@ -1,4 +1,4 @@
-# Our implementation of the Unix command: ls, using the C programming language.
+# Our implementation of Unix command: ls
 
 ## Synopsys
 
