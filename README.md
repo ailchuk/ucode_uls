@@ -38,3 +38,12 @@ language.
 |```S```|Sort files by size.|
 |```t```|Sort by time modified (most recently modified first) before sorting  the operands by lexicographical order.|
 |```u```|Use time of last access, instead of last modification of the file for sorting (```-t```) or long printing (```-l```).|
+
+## Developers: 
+- Andrii Ilchuk [@ailchuk](https://github.com/ailchuk)
+- Oleksiy Nechaiev [@onechaiev](https://github.com/jacomogrelli)
+
+## License
+
+Collision is an open-sourced software licensed under the
+[MIT license](LICENSE.md).
